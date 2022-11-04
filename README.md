@@ -69,3 +69,8 @@ horas_assistidas = [ 60, 120]
 
 Output:
 [50, 50]
+
+
+D6 - Dizemos que um número natural X esconde o Y quando, ao apagar alguns algarismos de X, o número Y aparece. Por exemplo, o número 12345 esconde o número 235, uma vez que pode ser obtido ao apagar os números 1 e 4. Por outro lado, ele não esconde o número 154.
+
+Escreva um código que recebe dois números e que retorna um booleano dizendo se o primeiro esconde o segundo.
