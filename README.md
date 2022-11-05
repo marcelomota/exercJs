@@ -78,7 +78,8 @@ Escreva um código que recebe dois números e que retorna um booleano dizendo se
 D7 - Uma empresa fabrica painéis de LED compostos por quadrados de 1 cm de lado. Nos vértices de cada quadrado fica um LED, sendo que o tamanho de cada painel é escolhido pelo cliente conforme a sua necessidade. A imagem abaixo mostra um painel de 2 cm por 2 cm, composto por 9 LEDs no total.
 Atualmente os funcionários desta fábrica perdem muito tempo (que poderia ser utilizado para inovação) com o cálculo manual desses painéis. A alta diretoria da fábrica decidiu então contratar você para evoluir e construir um cálculo automatizado, modernizando assim os sistemas deles.
 Considerando um painel de n por m centímetros, desenvolva um código para calcular o número total de LEDs no painel.
-![alt text](https://d3i71xaburhd42.cloudfront.net/724e546898c354815bae86944bc9932653ebfa8b/48-Figure5.2-1.png)
-OBS:
 
+![alt text](https://owlworksllc.com/wp-content/uploads/2014/08/3-MEN-300.png)
+
+OBS:
 Os valores da altura e da largura devem ser recebidos por meio de parâmetros
