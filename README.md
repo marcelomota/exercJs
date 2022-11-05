@@ -74,3 +74,11 @@ Output:
 D6 - Dizemos que um número natural X esconde o Y quando, ao apagar alguns algarismos de X, o número Y aparece. Por exemplo, o número 12345 esconde o número 235, uma vez que pode ser obtido ao apagar os números 1 e 4. Por outro lado, ele não esconde o número 154.
 
 Escreva um código que recebe dois números e que retorna um booleano dizendo se o primeiro esconde o segundo.
+
+D7 - Uma empresa fabrica painéis de LED compostos por quadrados de 1 cm de lado. Nos vértices de cada quadrado fica um LED, sendo que o tamanho de cada painel é escolhido pelo cliente conforme a sua necessidade. A imagem abaixo mostra um painel de 2 cm por 4 cm, composto por 15 LEDs no total.
+Atualmente os funcionários desta fábrica perdem muito tempo (que poderia ser utilizado para inovação) com o cálculo manual desses painéis. A alta diretoria da fábrica decidiu então contratar você para evoluir e construir um cálculo automatizado, modernizando assim os sistemas deles.
+Considerando um painel de n por m centímetros, desenvolva um código para calcular o número total de LEDs no painel.
+![alt text](https://res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/cc31ce4005a426aca6bc1c66f37484f1-image.png)
+OBS:
+
+Os valores da altura e da largura devem ser recebidos por meio de parâmetros
